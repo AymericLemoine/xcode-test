@@ -11,7 +11,7 @@
 
 int main()
 {
-    int a,b,c;
+    int a,b,c;      // comm tests
     int X1,X2;
     int alpha;
     int delta;
